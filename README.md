@@ -2,7 +2,7 @@
 
 # 🚀 GH Scraper
 
-## 🔍 How it Works (Simple Terms)
+## 🔍 How it Works
 
 Instead of just looking at a developer's profile page, this script digs into their **digital footprint** across GitHub:
 
