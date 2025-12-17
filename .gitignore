@@ -1,0 +1,6 @@
+# Ignore the output and data files
+github_emails.csv
+users.txt
+
+# Ignore OS files
+.DS_Store
