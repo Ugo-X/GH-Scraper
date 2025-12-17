@@ -1,7 +1,4 @@
-# GH-Scraper
-This README is designed to be professional, clear, and easy for any team member to follow. You can copy and paste this directly into a file named `README.md` in your GitHub repository.
 
------
 
 # 🚀 GH Scraper
 
