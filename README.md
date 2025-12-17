@@ -83,6 +83,6 @@ Once the script finishes, a new file named `github_emails.csv` will appear in yo
 
 ## ⚠️ Important Notes
 
-  * **Rate Limits:** The script includes a small delay between requests to respect GitHub’s security rules. It will take approximately 10–15 minutes to process 800 users.
+  * **Rate Limits:** The script includes a small delay between requests to respect GitHub’s security rules. It will take approximately 45 minutes to process 800 users.
   * **Privacy:** This tool only accesses **publicly available metadata**. It cannot find emails for users who have never pushed code publicly or who have successfully scrubbed their Git history.
 
